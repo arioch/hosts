@@ -1,0 +1,3 @@
+[submodule "3rdparty/StevenBlack"]
+	path = 3rdparty/StevenBlack
+	url = git@github.com:StevenBlack/hosts.git
