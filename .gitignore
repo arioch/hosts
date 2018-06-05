@@ -1,1 +1,3 @@
 hosts
+!conf.d/00_*
+conf.d/*
